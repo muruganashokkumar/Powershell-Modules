@@ -1,0 +1,11 @@
+git clone https://github.com/muruganashokkumar/Powershell-Modules.git
+git branch
+PS C:\Users\cloud_user\desktop\Powershell-Modules> git branch
+* main
+PS C:\Users\cloud_user\desktop\Powershell-Modules> git branch Ashok
+PS C:\Users\cloud_user\desktop\Powershell-Modules> git branch
+  Ashok
+* main
+PS C:\Users\cloud_user\desktop\Powershell-Modules> git checkout Ashok
+Switched to branch 'Ashok'
+PS C:\Users\cloud_user\desktop\Powershell-Modules> git branch
